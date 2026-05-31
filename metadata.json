@@ -1,0 +1,6 @@
+{
+  "name": "Omni Task Agent",
+  "description": "An agentic productivity assistant that parses natural language tasks, automatically syncs with your calendar, sets location-based smart reminders, and generates morning voice-briefings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

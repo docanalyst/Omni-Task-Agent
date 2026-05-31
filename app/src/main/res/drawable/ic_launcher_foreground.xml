@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Deep aesthetic gradient backing or details -->
+    <path
+        android:fillColor="#FF0F172A"
+        android:pathData="M0,0 h108 v108 h-108 z" />
+
+    <!-- Tech telemetry grid accents -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1E293B"
+        android:strokeWidth="1"
+        android:pathData="M54,0 V108 M0,54 H108" />
+
+    <!-- Outer target ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,20 A34,34 0 1 1 53.9,20 Z" />
+
+    <!-- Inner segment ticks -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#818CF8"
+        android:strokeWidth="1.5"
+        android:pathData="M54,10 V15 M54,93 V98 M10,54 H15 M93,54 H98" />
+
+    <!-- Bold, polished core checkmark symbol -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="6.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M40,54 L50,64 L68,44" />
+</vector>
